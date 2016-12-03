@@ -91,14 +91,10 @@
             <pb facs="tcp:0324600501:1" rendition="simple:additions"/>
             <p>
                <figure>
-                  <head>Olaudah Equiano or GUSTAVUS VASSA, <gap reason="illegible" resp="#OXF" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap>
-                  </head>
-                  <p>Published <gap reason="illegible" resp="#OXF" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap>
-                  </p>
+                  <head><span id="atk” corresp="ntk”>Olaudah Equiano or GUSTAVUS VASSA, the African</span> <note id="ntk” target="atk” type="gloss">Equiano’s remarkable frontispiece depicts him as a British gentleman of the period; his direct gaze at the viewer, rare for a portrait of a person of color in this period, establishes his equality with the prospective reader. He holds a Bible open to the Acts of the Apostles, 4:12, “Neither is there salvation in any other, for there is none other name under heaven given among men, whereby we must be saved.” (King James version)</note>
+</head>
+                  <p><span id="atk” corresp="ntk”>Published March 1 1789 by G. Vassa</span> <note id="ntk” target="atk” type="gloss">Equiano published this book himself, under the name he had been given by his master, Michael Pasquale, when he was first enslaved. Self-publication like this was unusual in the period, and we do not know why Equiano retained copyright rather than publishing through a London bookseller. But the book was very financially successful for him, going through nine British editions in his lifetime, and Equiano earned a considerable sum from it, so in effect the gamble that he was taking by publishing the book on his own paid off.</note>
+</p>
                </figure>
             </p>
          </div>
@@ -538,41 +534,41 @@ Robert Oliver, Esq.</item>
             </list>
             <list>
                <head>s</head>
-               <item>His Grace the Duke of st. Albans</item>
-               <item>Her Grace the Duchess of st. Albans</item>
-               <item>The Right Reverend the Lord Bishop of st. David's</item>
-               <item>The Right Hon. Earl stanhope, 3 copies</item>
-               <item>The Right Hon. the Earl of scarbrough</item>
-               <item>Mr sampson</item>
-               <item>William, the son of Ignatius sancho</item>
-               <item>Mrs. Mary Ann sandiford</item>
-               <item>Mr. William sawyer</item>
-               <item>Mr. Thomas seddon</item>
-               <item>W. seward, Esq.</item>
+               <item>His Grace the Duke of St. Albans</item>
+               <item>Her Grace the Duchess of St. Albans</item>
+               <item>The Right Reverend the Lord Bishop of St. David's</item>
+               <item>The Right Hon. Earl Stanhope, 3 copies</item>
+               <item>The Right Hon. the Earl of Scarbrough</item>
+               <item>Mr Sampson</item>
+               <item>William, the son of Ignatius Sancho</item>
+               <item>Mrs. Mary Ann Sandiford</item>
+               <item>Mr. William Sawyer</item>
+               <item>Mr. Thomas Seddon</item>
+               <item>W. Seward, Esq.</item>
                <item>
                   <pb facs="tcp:0324600501:18"/>
-Reverend Mr. Thomas scott</item>
-               <item>Granville sharp, Esq. 2 copies</item>
-               <item>Mr. Richard shepherd</item>
-               <item>Mr. William shill</item>
-               <item>Captain sidney smith, of the Royal Navy</item>
-               <item>Colonel simcoe</item>
-               <item>Mr John simco</item>
-               <item>General smith</item>
-               <item>John smith, Esq.</item>
-               <item>Mr. George smith</item>
-               <item>Mr. William smith</item>
-               <item>John James smith</item>
-               <item>Reverend Mr. southgate</item>
-               <item>Thomas spalding</item>
-               <item>John spratt</item>
-               <item>Mr. Charles starkey</item>
-               <item>Thomas steel, Esq. M. P.</item>
+Reverend Mr. Thomas Scott</item>
+               <item>Granville Sharp, Esq. 2 copies</item>
+               <item>Mr. Richard Shepherd</item>
+               <item>Mr. William Shill</item>
+               <item>Captain Sidney smith, of the Royal Navy</item>
+               <item>Colonel Simcoe</item>
+               <item>Mr John Simco</item>
+               <item>General Smith</item>
+               <item>John Smith, Esq.</item>
+               <item>Mr. George Smith</item>
+               <item>Mr. William Smith</item>
+               <item>John James Smith</item>
+               <item>Reverend Mr. Southgate</item>
+               <item>Thomas Spalding</item>
+               <item>John Spratt</item>
+               <item>Mr. Charles Starkey</item>
+               <item>Thomas Steel, Esq. M. P.</item>
                <item>Mr. staples steare</item>
-               <item>Mr. Joseph stewardson</item>
-               <item>Mr. Henry stone, Jun. 2 copies</item>
-               <item>Mr. John strickland</item>
-               <item>John symmons, Esq.</item>
+               <item>Mr. Joseph Stewardson</item>
+               <item>Mr. Henry Stone, Jun. 2 copies</item>
+               <item>Mr. John Strickland</item>
+               <item>John Symmons, Esq.</item>
                <item>Mr. William symonds</item>
             </list>
             <list>
@@ -583,7 +579,7 @@ Reverend Mr. Thomas scott</item>
                <item>Mr. Abraham Thorp</item>
                <item>Alexander Thomson, M. D.</item>
                <item>The Reverend Mr. John Till</item>
-               <item>Mr. samuel Townly</item>
+               <item>Mr. Samuel Townly</item>
                <item>Mr. Daniel Trinder</item>
                <item>
                   <pb facs="tcp:0324600501:19"/>
@@ -639,7 +635,7 @@ John W<gap reason="illegible" resp="#OXF" extent="4+ letters">
             <list>
                <head>Y</head>
                <item>Mr. Yeo</item>
-               <item>Mr. samuel Yockney</item>
+               <item>Mr. Samuel Yockney</item>
                <item>Mr. Thomos Young</item>
             </list>
          </div>
