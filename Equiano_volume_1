@@ -9,13 +9,15 @@
          <publicationstmt>
             <publisher>University of Michigan Library</publisher>
             <pubPlace>Ann Arbor, Michigan</pubPlace>
-            <date when="2008-09">2008 september</date>
-            <idno type="DLPs">004837188</idno>
-            <idno type="EsTC">T61470</idno>
+	    <publisher>Open Anthology of Literature</publisher>
+            <date when="2008-09">2008 September</date>
+	    <date when=“2016-12”>2016 December republication by the Open Anthology of Literature</date>
+            <idno type="DLPS”>004837188</idno>
+            <idno type="ESTC">T61470</idno>
             <idno type="DOCNO">CW101534748</idno>
             <idno type="TCP">K053415.001</idno>
             <idno type="GALEDOCNO">CW3301534748</idno>
-            <idno type="CONTENTsET">ECHG</idno>
+            <idno type="CONTENTSET">ECHG</idno>
             <idno type="IMAGEsETID">0324600501</idno>
             <availability>
                <p>This keyboarded and encoded edition of the
@@ -89,14 +91,10 @@
             <pb facs="tcp:0324600501:1" rendition="simple:additions"/>
             <p>
                <figure>
-                  <head>Oluadah Equiano or GUsTAVUs VAssA, <gap reason="illegible" resp="#OXF" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap>
-                  </head>
-                  <p>Published <gap reason="illegible" resp="#OXF" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap>
-                  </p>
+                  <head><span id="atk” corresp="ntk”>Olaudah Equiano or GUSTAVUS VASSA, the African</span> <note id="ntk” target="atk” type="gloss">Equiano’s remarkable frontispiece depicts him as a British gentleman of the period; his direct gaze at the viewer, rare for a portrait of a person of color in this period, establishes his equality with the prospective reader. He holds a Bible open to the Acts of the Apostles, 4:12, “Neither is there salvation in any other, for there is none other name under heaven given among men, whereby we must be saved.” (King James version)</note>
+</head>
+                  <p><span id="atk” corresp="ntk”>Published March 1 1789 by G. Vassa</span> <note id="ntk” target="atk” type="gloss">Equiano published this book himself, under the name he had been given by his master, Michael Pasquale, when he was first enslaved. Self-publication like this was unusual in the period, and we do not know why Equiano retained copyright rather than publishing through a London bookseller. But the book was very financially successful for him, going through nine British editions in his lifetime, and Equiano earned a considerable sum from it, so in effect the gamble that he was taking by publishing the book on his own paid off.</note>
+</p>
                </figure>
             </p>
          </div>
@@ -104,7 +102,7 @@
             <pb facs="tcp:0324600501:2" rendition="simple:additions"/>
             <p>THE INTERESTING NARRATIVE OF THE LIFE OF OLAUDAH EQUIANO, OR GUSTAVUS VASSA, THE AFRICAN.</p>
             <p>
-               <hi>WRITTEN BY HIMsELF.</hi>
+               <hi>WRITTEN BY HIMSELF.</hi>
             </p>
             <p>VOL 1.</p>
             <q>
@@ -112,36 +110,42 @@
                   <hi>Behold, God is my salvation; I will trust and not be afraid, for the Lord Jehovah is my strength and my song; he also is become my salvation.</hi>
                </p>
                <p>
-                  <hi>And in that day shall ye say, Praise the Lord, call upon his name, declare his doings among the people,</hi>
+                  <hi>And in that day shall ye say, Praise the Lord, call upon his name, declare his doings among the people.</hi>
                </p>
                <bibl>Isaiah xii. 2, 4.</bibl>
             </q>
-            <p>sECOND EDITION.</p>
-            <p>LONDON: Printed and sold for the AUTHOR, by T. WILKINs, No. 23, Aldermanbury; sold also by Mr. Johnson, st. Paul's Church-Yard; Mr. Buckland, Paternoster-Row; Messrs. Robson and Clark, Bond-street; Mr. Davis, opposite Gray's-Inn, Holborn; Mr. Matthews, strand; Mr stockdale, Piccadilly; Mr. Richardson, Royal Exchange; Mr. Kearsley, Fleet-street; and the Booksellers in Oxford and Cambridge.</p>
-            <p>[<hi>Entered at stationers-hall.</hi>]</p>
+            <p>SECOND EDITION.</p>
+            <p>LONDON: Printed and sold for the AUTHOR, by T. WILKINS, No. 23, Aldermanbury; sold also by Mr. Johnson, St. Paul's Church-Yard; Mr. Buckland, Paternoster-Row; Messrs. Robson and Clark, Bond-street; Mr. Davis, opposite Gray's-Inn, Holborn; Mr. Matthews, Strand; Mr Stockdale, Piccadilly; Mr. Richardson, Royal Exchange; Mr. Kearsley, Fleet-street; and the Booksellers in Oxford and Cambridge.</p>
+            <p>[<hi>Entered at Stationers-hall.</hi>]</p>
          </div>
          <div type="dedication">
             <pb n="3" facs="tcp:0324600501:3"/>
-            <head>To the Lords spiritual and Temporal, and the Com<g ref="char:EOLhyphen"/>mons of the Parliament of Great Britain.</head>
+            <head>To the Lords Spiritual and Temporal, and the Commons of the Parliament of Great Britain.</head>
             <opener>
                <salute>My Lords and Gentlemen,</salute>
             </opener>
-            <p>PERMIT me, with the greatest deference and respect, to lay at your feet the following genuine Narra<g ref="char:EOLhyphen"/>tive; the chief design of which is to excite in your august assemblies a sense of compassion for the mise<g ref="char:EOLhyphen"/>ries which the slave-Trade has en<g ref="char:EOLhyphen"/>tailed on my unfortunate country<g ref="char:EOLhyphen"/>men. By the horrors of that trade was I first torn away from all the tender connex ons that were natu<g ref="char:EOLhyphen"/>rally dear to my heart; but these,
+            <p>PERMIT me, with the greatest deference and respect, to lay at your feet the following genuine Narrative; the chief design of which is to excite in your august assemblies a sense of compassion for the miseries which the Slave-Trade has entailed on my unfortunate countrymen. By the horrors of that trade was I first torn away from all the tender connexions that were naturally dear to my heart; but these,
 <pb n="4" facs="tcp:0324600501:4"/>
-through the mysterious ways of Providence, I ought to regard as infinitely more than compensated by the introduction I have thence obtained to the knowledge of the Christian religion, and of a nation which, by its liberal sentiments, its humanity, the glorious freedom of its government, and its profici<g ref="char:EOLhyphen"/>ency in arts and sciences, has ex<g ref="char:EOLhyphen"/>alted the dignity of human nature.</p>
-            <p>I am sensible I ought to entreat your pardon for addressing to you a work so wholly devoid of literary merit; but, as the production of an unlettered African, who is ac<g ref="char:EOLhyphen"/>tuated by the hope of becoming an instrument towards the relief of his suffering countrymen, I trust that <hi>such a man,</hi> pleading in <hi>such a</hi>
+through the mysterious ways of Providence, I ought to regard as infinitely more than compensated by the introduction I have thence obtained to the knowledge of the Christian religion, and of a nation which, by its liberal sentiments, its humanity, the glorious freedom of its government, and its proficiency in arts and sciences, has exalted the dignity of human nature.</p>
+            <p>I am sensible I ought to entreat your pardon for addressing to you a work so wholly devoid of literary merit; but, as the production of an unlettered African, who is actuated by the hope of becoming an instrument towards the relief of his suffering countrymen, I trust that <hi>such a man,</hi> pleading in <hi>such a</hi>
                <pb n="5" facs="tcp:0324600501:5"/>
                <hi>cause,</hi> will be acquitted of boldness and presumption.</p>
-            <p>May the God of heaven inspire your hearts with peculiar benevo<g ref="char:EOLhyphen"/>lence on that important day when the question of Abolition is to be discussed, when thousands, in con<g ref="char:EOLhyphen"/>sequence of your Determination, are to look for Happiness or Misery!</p>
+            <p>May the God of heaven inspire your hearts with peculiar benevolence on that important day when the question of Abolition is to be discussed, when thousands, in consequence of your Determination, are to look for Happiness or Misery!</p>
             <closer>
-               <signed>I am, MY LORDs AND GENTLEMEN, Your most obedient, And devoted humble servant, OLAUDAH EQUIANO, OR GUsTAVUs VAssA.</signed>
-               <dateline>No. 10, Union-street, Mary-le-bone, <date>Dec. 24, 1789.</date>
+               <signed><l>I am,</l> 
+<l>MY LORDS AND GENTLEMEN,</l> 
+<l>Your most obedient,</l> 
+<l> And devoted humble Servant, </l> 
+<l>OLAUDAH EQUIANO,</l> 
+<l> OR GUSTAVUS VASSA.</l> </signed>
+               <dateline><l>No. 10, Union-street, Mary-le-bone,</l>  
+<date><l>Dec. 24, 1789.</date></l> 
                </dateline>
             </closer>
          </div>
          <div type="list_of_subscribers">
             <pb facs="tcp:0324600501:6"/>
-            <head>A LIsT OF sUBsCRIBERs.</head>
+            <head>A LIST OF SUBSCRIBERs.</head>
             <list>
                <item>His Royal Highness the Prince of Wales.</item>
                <item>His Royal Highness the Duke of York.</item>
@@ -165,7 +169,7 @@ The Reverend Charles Adams</item>
                <item>Mr. Joseph Armitage</item>
                <item>Mr. Joseph Ashpinshaw</item>
                <item>Mrs. Ashman</item>
-               <item>Mr. samuel Atkins</item>
+               <item>Mr. Samuel Atkins</item>
                <item>Mr John Attwood</item>
                <item>Mr. Thomas Attwood</item>
                <item>Mr. Ashwell</item>
@@ -199,12 +203,12 @@ Mrs. Baynes, 2 copies</item>
                <item>Mr. J. Benjafield</item>
                <item>Mr, William Bennett</item>
                <item>Mr. Bensley</item>
-               <item>Mr. samuel Benson</item>
+               <item>Mr. Samuel Benson</item>
                <item>Mrs. Benton</item>
                <item>The Reverend Mr. Bently</item>
                <item>Mr. Thomas Bentley</item>
                <item>Mr. J. P Berthon</item>
-               <item>sir John Berney, Bart.</item>
+               <item>Sir John Berney, Bart.</item>
                <item>Alexander Blair, Esq.</item>
                <item>James Bocock, Esq.</item>
                <item>Mrs. Bond</item>
@@ -213,7 +217,7 @@ Mrs. Baynes, 2 copies</item>
                <item>Mrs. E. Boverie</item>
                <item>Alderman Boydell</item>
                <item>Mr. Harris Bottisham</item>
-               <item>— Brand, Esq.</item>
+               <item>——— Brand, Esq.</item>
                <item>Mr. Martin Brander</item>
                <item>F. J. Brown, Esq. M. P. 2 copies</item>
                <item>W. Buttall, Esq.</item>
@@ -530,41 +534,41 @@ Robert Oliver, Esq.</item>
             </list>
             <list>
                <head>s</head>
-               <item>His Grace the Duke of st. Albans</item>
-               <item>Her Grace the Duchess of st. Albans</item>
-               <item>The Right Reverend the Lord Bishop of st. David's</item>
-               <item>The Right Hon. Earl stanhope, 3 copies</item>
-               <item>The Right Hon. the Earl of scarbrough</item>
-               <item>Mr sampson</item>
-               <item>William, the son of Ignatius sancho</item>
-               <item>Mrs. Mary Ann sandiford</item>
-               <item>Mr. William sawyer</item>
-               <item>Mr. Thomas seddon</item>
-               <item>W. seward, Esq.</item>
+               <item>His Grace the Duke of St. Albans</item>
+               <item>Her Grace the Duchess of St. Albans</item>
+               <item>The Right Reverend the Lord Bishop of St. David's</item>
+               <item>The Right Hon. Earl Stanhope, 3 copies</item>
+               <item>The Right Hon. the Earl of Scarbrough</item>
+               <item>Mr Sampson</item>
+               <item>William, the son of Ignatius Sancho</item>
+               <item>Mrs. Mary Ann Sandiford</item>
+               <item>Mr. William Sawyer</item>
+               <item>Mr. Thomas Seddon</item>
+               <item>W. Seward, Esq.</item>
                <item>
                   <pb facs="tcp:0324600501:18"/>
-Reverend Mr. Thomas scott</item>
-               <item>Granville sharp, Esq. 2 copies</item>
-               <item>Mr. Richard shepherd</item>
-               <item>Mr. William shill</item>
-               <item>Captain sidney smith, of the Royal Navy</item>
-               <item>Colonel simcoe</item>
-               <item>Mr John simco</item>
-               <item>General smith</item>
-               <item>John smith, Esq.</item>
-               <item>Mr. George smith</item>
-               <item>Mr. William smith</item>
-               <item>John James smith</item>
-               <item>Reverend Mr. southgate</item>
-               <item>Thomas spalding</item>
-               <item>John spratt</item>
-               <item>Mr. Charles starkey</item>
-               <item>Thomas steel, Esq. M. P.</item>
+Reverend Mr. Thomas Scott</item>
+               <item>Granville Sharp, Esq. 2 copies</item>
+               <item>Mr. Richard Shepherd</item>
+               <item>Mr. William Shill</item>
+               <item>Captain Sidney smith, of the Royal Navy</item>
+               <item>Colonel Simcoe</item>
+               <item>Mr John Simco</item>
+               <item>General Smith</item>
+               <item>John Smith, Esq.</item>
+               <item>Mr. George Smith</item>
+               <item>Mr. William Smith</item>
+               <item>John James Smith</item>
+               <item>Reverend Mr. Southgate</item>
+               <item>Thomas Spalding</item>
+               <item>John Spratt</item>
+               <item>Mr. Charles Starkey</item>
+               <item>Thomas Steel, Esq. M. P.</item>
                <item>Mr. staples steare</item>
-               <item>Mr. Joseph stewardson</item>
-               <item>Mr. Henry stone, Jun. 2 copies</item>
-               <item>Mr. John strickland</item>
-               <item>John symmons, Esq.</item>
+               <item>Mr. Joseph Stewardson</item>
+               <item>Mr. Henry Stone, Jun. 2 copies</item>
+               <item>Mr. John Strickland</item>
+               <item>John Symmons, Esq.</item>
                <item>Mr. William symonds</item>
             </list>
             <list>
@@ -575,7 +579,7 @@ Reverend Mr. Thomas scott</item>
                <item>Mr. Abraham Thorp</item>
                <item>Alexander Thomson, M. D.</item>
                <item>The Reverend Mr. John Till</item>
-               <item>Mr. samuel Townly</item>
+               <item>Mr. Samuel Townly</item>
                <item>Mr. Daniel Trinder</item>
                <item>
                   <pb facs="tcp:0324600501:19"/>
@@ -631,7 +635,7 @@ John W<gap reason="illegible" resp="#OXF" extent="4+ letters">
             <list>
                <head>Y</head>
                <item>Mr. Yeo</item>
-               <item>Mr. samuel Yockney</item>
+               <item>Mr. Samuel Yockney</item>
                <item>Mr. Thomos Young</item>
             </list>
          </div>
